@@ -1,1 +1,1 @@
-# Testing Git throw a GUI (graphical user interface)
+# Testing Git throw a GUI (graphical user interface) :)
