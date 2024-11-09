@@ -1,4 +1,5 @@
 # Testing Git throw a GUI (graphical user interface) :)
 
-- add commit 1
-- add commit 2
+- Commit 1
+- Commit 2
+- Commit 3
